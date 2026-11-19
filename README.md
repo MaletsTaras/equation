@@ -1,2 +1,2 @@
 # equation
-It is equation in python. Just simple
+This is **equation**. Just simple project in python. 
